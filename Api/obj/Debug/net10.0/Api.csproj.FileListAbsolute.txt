@@ -31,3 +31,4 @@
 /Users/Boss/Desktop/TaskTracker/Api/obj/Debug/net10.0/Api.pdb
 /Users/Boss/Desktop/TaskTracker/Api/obj/Debug/net10.0/Api.genruntimeconfig.cache
 /Users/Boss/Desktop/TaskTracker/Api/obj/Debug/net10.0/ref/Api.dll
+/Users/Boss/Desktop/TaskTracker/Api/obj/Debug/net10.0/Api.sourcelink.json
