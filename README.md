@@ -1,2 +1,25 @@
-# taskTracker
-Track task that need to be completed for our projects
+# Task Tracker
+
+A **task tracker** built with **Angular** and **.NET**, allowing you to manage and update tickets as you work on them.
+
+## Purpose
+
+This project is made to **showcase my ability to quickly learn new tools** and to **prepare for interviews** involving those technologies. It demonstrates hands-on experience with modern web development stacks and full-stack integration.
+
+## Tech Stack
+
+- **Frontend:** Angular
+- **Backend:** .NET (API)
+
+## What It Does
+
+- Track tasks and tickets for your projects
+- Update ticket status and details as you progress
+- Manage work items in one place
+
+## Getting Started
+
+- **Frontend:** See the `Frontend` folder for the Angular app.
+- **API:** See the `Api` folder for the .NET backend.
+
+Run both to use the full application.
