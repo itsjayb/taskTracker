@@ -4,7 +4,7 @@ A **task tracker** built with **Angular** and **.NET**, allowing you to manage a
 
 ## Purpose
 
-This project is made to **showcase my ability to quickly learn new tools** and to **prepare for interviews** involving those technologies. It demonstrates hands-on experience with modern web development stacks and full-stack integration.
+This project is made to **showcase my ability to quickly learn new tools** and to **prepare for interviews** involving those technologies. It also felt like the **perfect time** to build my own task tracker—one that lets me handle **new features and bugs more efficiently** by keeping everything in one place and staying on top of what’s in progress, done, or blocked.
 
 ## Tech Stack
 
